@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(52,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(53,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,76): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,76): warning C4244:         with
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,76): warning C4244:         [
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,76): warning C4244:             _Tp=int
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,76): warning C4244:         ]
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,69): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,69): warning C4244:         with
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,69): warning C4244:         [
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,69): warning C4244:             _Tp=int
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(84,69): warning C4244:         ]
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(119,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(244,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(245,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(246,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,120): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,120): warning C4244:         with
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,120): warning C4244:         [
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,120): warning C4244:             _Tp=int
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,120): warning C4244:         ]
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,88): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,88): warning C4244:         with
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,88): warning C4244:         [
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,88): warning C4244:             _Tp=int
+C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\main.cpp(271,88): warning C4244:         ]
+  Playing Card Suit Identifier.vcxproj -> C:\Users\janko\My Files\GitHub Projects\Card Suit Identifier\Playing Card Suit Identifier\x64\Debug\Playing Card Suit Identifier.exe
