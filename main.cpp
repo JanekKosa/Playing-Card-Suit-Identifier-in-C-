@@ -5,9 +5,7 @@
             This is a program for detecting the suit of a card based on its image, and the card suit is returned on the console.
 
         INSTRUCTIONS :
-            You need to specify the path to the symbols.jpg file with color patterns in the "templateSuitImage" variable in the main() function.The file is located in the folder.
-
-            Sample card images are located in the folder.
+            Sample card images are located in the "Sample Cards" folder.
 
             In the main() function, you can change the.jpg file name in the "sampleImageOriginal" variable to four names
             (exampleH, exampleD, exampleS, exampleC), each representing a card image with a different suit.
